@@ -299,5 +299,3 @@ The Summer House Coordination Website provides a set of API endpoints to handle 
             "message": "Admin tasks completed successfully."
         }
         ```
-#   s u m m e r - h o m e  
- 
