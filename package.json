@@ -7,7 +7,8 @@
         "build": "rm -rf build/ &&  tsc",
         "start": "node build/server.js",
         "dev": "ts-node-dev --respawn --transpile-only src/routes/server.ts",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "vercel-build": "echo hello"
     },
     "author": "Himel Hasan",
     "license": "ISC",
